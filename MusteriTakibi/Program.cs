@@ -14,7 +14,7 @@ namespace MusteriTakibi
             musteriService.MusteriEkle(costumer1);
             musteriService.MusteriCikar(costumer1);
             musteriService.BakiyeGuncelle(costumer1, 80);
-
+            //...
 
         }
     }
