@@ -28,7 +28,7 @@ namespace MusteriTakibi
         public void BakiyeGuncelle(Musteri musteri, float bakiye)
         {
             musteri.Bakiye = bakiye;
-            //
+            
         }
     }
 }

@@ -20,7 +20,7 @@ namespace MusteriTakibi
 
         public bool Cinsiyet { get; set; }//true->kadın----false->erkek
 
-        //
+        
 
 
     }
